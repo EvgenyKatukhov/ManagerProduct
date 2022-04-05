@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+ProductManager,ru.netology.domain,Smartphone,0,18,0,0,0,6,0,3,0,3
+ProductManager,ru.netology.domain,Book,0,18,0,0,0,6,0,3,0,3
+ProductManager,ru.netology.domain,NotFoundException,0,4,0,0,0,2,0,1,0,1
+ProductManager,ru.netology.domain,Product,18,15,0,0,8,6,5,2,5,2
+ProductManager,manager,ProductManager,2,97,1,11,1,23,1,9,0,4
+ProductManager,repository,ProductRepository,0,117,0,10,0,25,0,10,0,5
